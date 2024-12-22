@@ -71,14 +71,6 @@ The **Swiggy Sales Analysis Dashboard** is designed to extract meaningful insigh
 
 ---
 
-## 🔍 How to Use
-1. Clone this repository to your local system.
-2. Download the dataset and load it into Power BI Desktop.
-3. Open the provided `.pbix` file to explore the interactive dashboards.
-4. Use slicers for filtering data by city, payment method, cuisine type, and time.
-
----
-
 ## 🏆 Project Highlights
 - Interactive dashboards with drill-down capabilities.
 - Efficient handling of a large dataset with over 1M rows.
